@@ -85,6 +85,12 @@ PRODUCT_COPY_FILES += \
     vendor/yu/sambar/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
     vendor/yu/sambar/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/yu/sambar/proprietary/etc/permissions/com.quicinc.cne.xml:system/etc/permissions/com.quicinc.cne.xml \
+    vendor/yu/sambar/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
+    vendor/yu/sambar/proprietary/etc/permissions/com.quicinc.cne.xml:system/etc/permissions/com.quicinc.cne.xml \
+    vendor/yu/sambar/proprietary/etc/permissions/ConnectivityExt.xml:system/etc/permissions/ConnectivityExt.xml \
+    vendor/yu/sambar/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
+    vendor/yu/sambar/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
+    vendor/yu/sambar/proprietary/framework/ConnectivityExt.jar:system/framework/ConnectivityExt.jar \
     vendor/yu/sambar/proprietary/etc/permissions/dpmapi.xml:system/etc/permissions/dpmapi.xml \
     vendor/yu/sambar/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/yu/sambar/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
