@@ -394,6 +394,14 @@ PRODUCT_COPY_FILES += \
     vendor/yu/sambar/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/yu/sambar/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
 
+PRODUCT_COPY_FILES += \
+	vendor/yu/sambar/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
+	vendor/yu/sambar/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+	vendor/yu/sambar/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+	vendor/yu/sambar/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+	vendor/yu/sambar/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+	vendor/yu/sambar/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
+
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api \
