@@ -360,6 +360,29 @@ PRODUCT_COPY_FILES += \
     vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_p7201_zsl_preview_third_party_app.so:system/vendor/lib/libchromatix_s5k4h8_p7201_zsl_preview_third_party_app.so \
     vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_p7201_zsl_video.so:system/vendor/lib/libchromatix_s5k4h8_p7201_zsl_video.so \
     vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_p7201_zsl_video_third_party_app.so:system/vendor/lib/libchromatix_s5k4h8_p7201_zsl_video_third_party_app.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_common.so:system/vendor/lib/libchromatix_s5k4h8_common.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_cpp_hfr_120.so:system/vendor/lib/libchromatix_s5k4h8_cpp_hfr_120.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_cpp_hfr_60.so:system/vendor/lib/libchromatix_s5k4h8_cpp_hfr_60.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_cpp_hfr_90.so:system/vendor/lib/libchromatix_s5k4h8_cpp_hfr_90.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_cpp_liveshot.so:system/vendor/lib/libchromatix_s5k4h8_cpp_liveshot.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_cpp_preview.so:system/vendor/lib/libchromatix_s5k4h8_cpp_preview.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_cpp_snapshot.so:system/vendor/lib/libchromatix_s5k4h8_cpp_snapshot.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_cpp_video.so:system/vendor/lib/libchromatix_s5k4h8_cpp_video.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_default_preview_dw9763.so:system/vendor/lib/libchromatix_s5k4h8_default_preview_dw9763.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_default_video.so:system/vendor/lib/libchromatix_s5k4h8_default_video.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_default_video_dw9763.so:system/vendor/lib/libchromatix_s5k4h8_default_video_dw9763.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_hfr_120.so:system/vendor/lib/libchromatix_s5k4h8_hfr_120.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_hfr_120_dw9763.so:system/vendor/lib/libchromatix_s5k4h8_hfr_120_dw9763.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_hfr_60.so:system/vendor/lib/libchromatix_s5k4h8_hfr_60.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_hfr_60_dw9763.so:system/vendor/lib/libchromatix_s5k4h8_hfr_60_dw9763.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_hfr_90.so:system/vendor/lib/libchromatix_s5k4h8_hfr_90.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_hfr_90_dw9763.so:system/vendor/lib/libchromatix_s5k4h8_hfr_90_dw9763.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_liveshot.so:system/vendor/lib/libchromatix_s5k4h8_liveshot.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_postproc.so:system/vendor/lib/libchromatix_s5k4h8_postproc.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_preview.so:system/vendor/lib/libchromatix_s5k4h8_preview.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_snapshot.so:system/vendor/lib/libchromatix_s5k4h8_snapshot.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_zsl_preview_dw9763.so:system/vendor/lib/libchromatix_s5k4h8_zsl_preview_dw9763.so \
+	vendor/yu/garlic/proprietary/vendor/lib/libchromatix_s5k4h8_zsl_video_dw9763.so:system/vendor/lib/libchromatix_s5k4h8_zsl_video_dw9763.so \
     vendor/yu/garlic/proprietary/vendor/lib/libcne.so:system/vendor/lib/libcne.so \
     vendor/yu/garlic/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/yu/garlic/proprietary/vendor/lib/libcneqmiutils.so:system/vendor/lib/libcneqmiutils.so \
